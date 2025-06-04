@@ -5,9 +5,6 @@
 
 A beginner-friendly project using **PySpark** to perform basic analysis on a hardcoded movies dataset. This project demonstrates data cleaning, transformations, and aggregations using PySpark's DataFrame API — perfect for learning or showcasing big data processing skills!
 
-# 🎥 PySpark Simple Movies Project
-
-A beginner-friendly PySpark project that analyzes a small movie dataset — without using any external CSV files!
 
 ## 📊 Features
 - Analyzes embedded movie data
@@ -32,8 +29,8 @@ pip install -r requirements.txt
 # to Run the project
 python movies_analysis.py
 
-## 🖼️ Output Screenshot
+![dashboard](https://github.com/user![OUTPUT](https://github.com/user-attachments/assets/f9fd4769-882f-4c0e-972e-c17b816e3589)
+-attachments/assets/....)
 
-![Output](output.png)
 
 
