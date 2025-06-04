@@ -29,7 +29,7 @@ pip install -r requirements.txt
 # to Run the project
 python movies_analysis.py
 
-![dashboard](https://github.com/user![OUTPUT](https://github.com/user-attachments/assets/f9fd4769-882f-4c0e-972e-c17b816e3589)
+[OUTPUT](https://github.com/user-attachments/assets/f9fd4769-882f-4c0e-972e-c17b816e3589)
 -attachments/assets/....)
 
 
